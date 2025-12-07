@@ -1,0 +1,25 @@
+# Chỉ định nguồn tải PyTorch có CUDA 12.1 (Tương thích tốt nhất với RTX 4060)
+--extra-index-url https://download.pytorch.org/whl/cu121
+
+
+torch
+torchvision
+torchaudio
+
+# Data Processing
+pandas
+numpy
+scikit-learn
+
+# NLP Tools
+pyvi
+
+# Visualization & Utils
+tqdm
+matplotlib
+seaborn
+
+# Model Deployment
+fastapi
+uvicorn
+pydantic

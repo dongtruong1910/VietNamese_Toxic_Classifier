@@ -1,0 +1,7 @@
+.idea/
+.venv/
+data/
+saved_models/
+__pycache__/
+confusion_matrix.png
+result.png
